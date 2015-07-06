@@ -1,7 +1,7 @@
 pkgbase = uchardet
 	pkgdesc = An encoding detector library
 	pkgver = 0.0.1
-	pkgrel = 1
+	pkgrel = 2
 	url = http://code.google.com/p/uchardet/
 	arch = i686
 	arch = x86_64
