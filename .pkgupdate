@@ -1,0 +1,1 @@
+update_pkgver=$(wget -q -O- https://www.freedesktop.org/software/uchardet/releases/ | sed -nr 's/.*uchardet-(.*)\.tar\..*/\1/p' | head -n1)
